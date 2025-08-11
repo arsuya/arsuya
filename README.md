@@ -32,12 +32,12 @@ I thrive on:
 `Apache Airflow` | `PostgreSQL` | `Google BigQuery` | `AWS (S3, Lambda, Glue, Kinesis, Athena, MWAA)` | `Docker` | `Elasticsearch` | `Kafka` | `Hadoop`
 
 **Techniques & Modeling:**  
-Regression | Random Forest | Decision Trees | Clustering | Dimensionality Reduction | Forecasting
+`Regression` | `Random Forest` | `Decision Trees` | `Clustering` | `Dimensionality Reduction` | `Forecasting`
 
 ---
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arvin-surya-wibowo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arvinwibowo)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/arsuya)
 
 ---
