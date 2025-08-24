@@ -7,8 +7,7 @@
 ---
 
 ## 🔍 About Me
-I'm an entry-level **Data Scientist** passionate about transforming data into actionable insights.  
-With a background in **Electrical Automation Engineering** and hands-on experience in **machine learning**, **ETL pipelines**, and **data visualization**, I aim to bridge the gap between raw data and strategic decision-making.  
+I am and entry-level Data Scientist with hands-on experience in building machine learning models and data-driven systems. I am skilled in Python, SQL, and cloud-based ETL with strong knowledge of data visualization and predictive analytics. Passionate about leveraging statistical modeling and automation to deliver business insights and improve decision-making processes 
 
 I thrive on:
 - Building predictive and classification models.
