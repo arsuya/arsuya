@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 About Me
-I am and entry-level Data Scientist with hands-on experience in building machine learning models and data-driven systems. I am skilled in Python, SQL, and cloud-based ETL with strong knowledge of data visualization and predictive analytics. Passionate about leveraging statistical modeling and automation to deliver business insights and improve decision-making processes 
+I am an entry-level Data Scientist with hands-on experience in building machine learning models and data-driven systems. I am skilled in Python, SQL, and cloud-based ETL with strong knowledge of data visualization and predictive analytics. Passionate about leveraging statistical modeling and automation to deliver business insights and improve decision-making processes 
 
 I thrive on:
 - Building predictive and classification models.
